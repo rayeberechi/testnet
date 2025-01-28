@@ -1,4 +1,4 @@
-# Faithy - Cloud Hosting For Everyone
+
 ---
 ## Overview
 _This our the first project for Web3Bridges' Web2ACXII, it is a Bank Landing Page._
